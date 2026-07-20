@@ -1,0 +1,21 @@
+{
+  "nombre_usuario": "Daniel",
+  "idioma": "es-MX",
+  "voz_tipo": "normal",
+  "ubicacion": {
+    "ciudad": "Desconocida",
+    "region": "Desconocida",
+    "pais": "Desconocido",
+    "lat": "",
+    "lon": ""
+  },
+  "preferencias": {
+    "musica_por_defecto": "usb",
+    "volumen": 80,
+    "brillo": 100
+  },
+  "internet": false,
+  "primera_vez": false,
+  "ultima_verificacion_red": "2026-06-20T17:40:18.476608",
+  "ultima_actualizacion": "2026-05-05T13:10:40.851498"
+}
