@@ -234,12 +234,56 @@ El sistema implementa:
 - `de` - Alemán
 - `it` - Italiano
 
-## 📄 Licencia
+## 📄 Licencia - LICENCIA NOVA v2.0
 
-Ver archivo LICENSE en el repositorio
+Este proyecto está protegido bajo la **LICENCIA NOVA v2.0** (última actualización: 20 julio 2026).
+
+### 📌 Puntos Clave de la Licencia
+
+**✅ Permitido:**
+- Uso personal y privado del código
+- Modificación del código para uso estrictamente personal
+- Publicación en sitios públicos **previa solicitud de permiso explícito**
+- Redistribución con licencia incluida bajo autorización
+
+**❌ Prohibido:**
+- Uso comercial o en entornos corporativos/empresariales
+- Redistribución, venta o compartición sin permiso explícito
+- Usar el código como base para productos derivados comerciales
+- Modificar y publicar sin incluir esta licencia
+
+### 👤 Definiciones Importantes
+
+**Producto Nova:**
+- Cualquier código publicado o creado por Daniel de Anda Guzmán
+- Productos creados por personas autorizadas explícitamente
+- Cualquier producto que incluya la palabra "Nova" en su nombre
+
+**Usuario Autorizado:**
+- Persona que haya obtenido permiso explícito, directo y formal
+- Permiso solicitado y otorgado vía: **danideandaguzmand@gmail.com**
+- O mediante autorización física comprobable
+
+### 📧 Para Solicitar Autorización
+
+Contactar a: **danideandaguzmand@gmail.com**
+
+Debe incluir:
+- Descripción del uso/proyecto
+- Tipo de distribución o publicación
+- Cualquier información adicional relevante
+
+### ⚖️ Responsabilidad
+
+El código se proporciona "tal cual" sin garantías explícitas o implícitas. El titular no será responsable por daños derivados del uso del código.
+
+### 📋 Términos Completos
+
+Para la licencia completa y todos los términos y condiciones, ver el archivo `LICENSE` en este repositorio.
 
 ---
 
 **Creador**: Daniel de Anda  
 **Versión**: 1.0.0  
+**Licencia**: LICENCIA NOVA v2.0  
 **Última Actualización**: 2026
